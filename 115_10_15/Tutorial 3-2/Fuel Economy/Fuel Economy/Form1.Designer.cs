@@ -93,7 +93,7 @@
             this.mpgLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.mpgLabel.Location = new System.Drawing.Point(594, 168);
             this.mpgLabel.Name = "mpgLabel";
-            this.mpgLabel.Size = new System.Drawing.Size(140, 44);
+            this.mpgLabel.Size = new System.Drawing.Size(140, 52);
             this.mpgLabel.TabIndex = 5;
             this.mpgLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
