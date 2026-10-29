@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|c:\\users\\m303\\desktop\\115_1_c_sharp\\115_10_29\\tutorial 4-3\\loan qualifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|solutionrelative:loan qualifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\loan qualifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|solutionrelative:loan qualifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\loan qualifier\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|solutionrelative:loan qualifier\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\loan qualifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|solutionrelative:loan qualifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\loan qualifier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CB13F-4037-4ABF-8866-A0A5B0BAB08E}|Loan Qualifier\\Loan Qualifier.csproj|solutionrelative:loan qualifier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Loan Qualifier\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Loan Qualifier\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:27:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Program.cs",
+              "RelativeDocumentMoniker": "Loan Qualifier\\Program.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Program.cs",
+              "RelativeToolTip": "Loan Qualifier\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:27:08.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Loan Qualifier\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.Designer.cs",
+              "RelativeToolTip": "Loan Qualifier\\Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:26:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.cs",
+              "RelativeDocumentMoniker": "Loan Qualifier\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.cs",
+              "RelativeToolTip": "Loan Qualifier\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:48:55.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.cs",
+              "RelativeDocumentMoniker": "Loan Qualifier\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_1_C_sharp\\115_10_29\\Tutorial 4-3\\Loan Qualifier\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Loan Qualifier\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:48:51.401Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

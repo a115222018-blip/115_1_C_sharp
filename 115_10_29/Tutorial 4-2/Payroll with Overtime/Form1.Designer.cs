@@ -42,7 +42,7 @@
             // exitButton
             // 
             this.exitButton.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.exitButton.Location = new System.Drawing.Point(425, 250);
+            this.exitButton.Location = new System.Drawing.Point(455, 280);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(120, 50);
             this.exitButton.TabIndex = 26;
@@ -53,7 +53,7 @@
             // clearButton
             // 
             this.clearButton.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.clearButton.Location = new System.Drawing.Point(285, 250);
+            this.clearButton.Location = new System.Drawing.Point(305, 280);
             this.clearButton.Name = "clearButton";
             this.clearButton.Size = new System.Drawing.Size(120, 50);
             this.clearButton.TabIndex = 25;
@@ -64,7 +64,7 @@
             // calculateButton
             // 
             this.calculateButton.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.calculateButton.Location = new System.Drawing.Point(40, 250);
+            this.calculateButton.Location = new System.Drawing.Point(40, 280);
             this.calculateButton.Name = "calculateButton";
             this.calculateButton.Size = new System.Drawing.Size(220, 50);
             this.calculateButton.TabIndex = 24;
@@ -76,52 +76,52 @@
             // 
             this.grossPayLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.grossPayLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.grossPayLabel.Location = new System.Drawing.Point(270, 165);
+            this.grossPayLabel.Location = new System.Drawing.Point(300, 180);
             this.grossPayLabel.Name = "grossPayLabel";
-            this.grossPayLabel.Size = new System.Drawing.Size(275, 45);
+            this.grossPayLabel.Size = new System.Drawing.Size(275, 50);
             this.grossPayLabel.TabIndex = 23;
             this.grossPayLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(40, 163);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(40, 180);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(210, 45);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(240, 50);
             this.outputDescriptionLabel.TabIndex = 22;
             this.outputDescriptionLabel.Text = "總薪資：";
             // 
             // hourlyPayRateTextBox
             // 
             this.hourlyPayRateTextBox.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.hourlyPayRateTextBox.Location = new System.Drawing.Point(270, 105);
+            this.hourlyPayRateTextBox.Location = new System.Drawing.Point(300, 110);
             this.hourlyPayRateTextBox.Name = "hourlyPayRateTextBox";
-            this.hourlyPayRateTextBox.Size = new System.Drawing.Size(275, 55);
+            this.hourlyPayRateTextBox.Size = new System.Drawing.Size(275, 50);
             this.hourlyPayRateTextBox.TabIndex = 21;
             // 
             // hoursWorkedTextBox
             // 
             this.hoursWorkedTextBox.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.hoursWorkedTextBox.Location = new System.Drawing.Point(270, 45);
+            this.hoursWorkedTextBox.Location = new System.Drawing.Point(300, 40);
             this.hoursWorkedTextBox.Name = "hoursWorkedTextBox";
-            this.hoursWorkedTextBox.Size = new System.Drawing.Size(275, 55);
+            this.hoursWorkedTextBox.Size = new System.Drawing.Size(275, 50);
             this.hoursWorkedTextBox.TabIndex = 20;
             // 
             // hourlyPayRatePromptLabel
             // 
             this.hourlyPayRatePromptLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.hourlyPayRatePromptLabel.Location = new System.Drawing.Point(40, 110);
+            this.hourlyPayRatePromptLabel.Location = new System.Drawing.Point(40, 115);
             this.hourlyPayRatePromptLabel.Name = "hourlyPayRatePromptLabel";
-            this.hourlyPayRatePromptLabel.Size = new System.Drawing.Size(272, 50);
+            this.hourlyPayRatePromptLabel.Size = new System.Drawing.Size(240, 45);
             this.hourlyPayRatePromptLabel.TabIndex = 19;
             this.hourlyPayRatePromptLabel.Text = "每小時薪資：";
             // 
             // hoursWorkedPromptLabel
             // 
             this.hoursWorkedPromptLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.hoursWorkedPromptLabel.Location = new System.Drawing.Point(40, 50);
+            this.hoursWorkedPromptLabel.Location = new System.Drawing.Point(40, 45);
             this.hoursWorkedPromptLabel.Name = "hoursWorkedPromptLabel";
-            this.hoursWorkedPromptLabel.Size = new System.Drawing.Size(210, 50);
+            this.hoursWorkedPromptLabel.Size = new System.Drawing.Size(240, 45);
             this.hoursWorkedPromptLabel.TabIndex = 18;
             this.hoursWorkedPromptLabel.Text = "工作時數：";
             // 
@@ -129,7 +129,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(21F, 45F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(615, 353);
+            this.ClientSize = new System.Drawing.Size(770, 360);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.calculateButton);
