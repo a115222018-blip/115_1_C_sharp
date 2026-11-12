@@ -40,7 +40,7 @@
             // 
             this.promptLabel.AutoSize = true;
             this.promptLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.promptLabel.Location = new System.Drawing.Point(30, 25);
+            this.promptLabel.Location = new System.Drawing.Point(56, 43);
             this.promptLabel.Name = "promptLabel";
             this.promptLabel.Size = new System.Drawing.Size(524, 45);
             this.promptLabel.TabIndex = 0;
@@ -57,17 +57,17 @@
             "明尼阿波利斯",
             "紐約",
             "舊金山"});
-            this.cityListBox.Location = new System.Drawing.Point(30, 75);
+            this.cityListBox.Location = new System.Drawing.Point(64, 111);
             this.cityListBox.Name = "cityListBox";
-            this.cityListBox.Size = new System.Drawing.Size(445, 184);
+            this.cityListBox.Size = new System.Drawing.Size(490, 229);
             this.cityListBox.TabIndex = 1;
-            this.cityListBox.SelectedIndexChanged += new System.EventHandler(this.cityListBox_SelectedIndexChanged);
+//            this.cityListBox.SelectedIndexChanged += new System.EventHandler(this.cityListBox_SelectedIndexChanged);
             // 
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.AutoSize = true;
             this.outputDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(83, 270);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(56, 370);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
             this.outputDescriptionLabel.Size = new System.Drawing.Size(128, 45);
             this.outputDescriptionLabel.TabIndex = 2;
@@ -77,16 +77,16 @@
             // 
             this.timeZoneLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.timeZoneLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.timeZoneLabel.Location = new System.Drawing.Point(238, 270);
+            this.timeZoneLabel.Location = new System.Drawing.Point(178, 370);
             this.timeZoneLabel.Name = "timeZoneLabel";
-            this.timeZoneLabel.Size = new System.Drawing.Size(260, 45);
+            this.timeZoneLabel.Size = new System.Drawing.Size(376, 45);
             this.timeZoneLabel.TabIndex = 3;
             this.timeZoneLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // okButton
             // 
             this.okButton.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.okButton.Location = new System.Drawing.Point(91, 335);
+            this.okButton.Location = new System.Drawing.Point(64, 453);
             this.okButton.Name = "okButton";
             this.okButton.Size = new System.Drawing.Size(150, 55);
             this.okButton.TabIndex = 4;
@@ -97,19 +97,19 @@
             // exitButton
             // 
             this.exitButton.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.exitButton.Location = new System.Drawing.Point(348, 335);
+            this.exitButton.Location = new System.Drawing.Point(404, 453);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(150, 55);
             this.exitButton.TabIndex = 5;
             this.exitButton.Text = "離開";
             this.exitButton.UseVisualStyleBackColor = true;
-            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
+//            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(21F, 45F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(538, 420);
+            this.ClientSize = new System.Drawing.Size(652, 554);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.okButton);
             this.Controls.Add(this.timeZoneLabel);

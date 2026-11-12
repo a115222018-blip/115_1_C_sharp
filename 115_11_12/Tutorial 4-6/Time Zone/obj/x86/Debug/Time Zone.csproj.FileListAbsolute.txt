@@ -29,3 +29,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Ti
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.Cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\bin\Debug\Time Zone.exe.config
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time Zone.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time Zone.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time Zone.exe
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_12\Tutorial 4-6\Time Zone\obj\x86\Debug\Time Zone.pdb
