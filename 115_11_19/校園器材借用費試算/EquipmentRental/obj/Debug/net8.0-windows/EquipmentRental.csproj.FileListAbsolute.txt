@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\bin\Debug\net8.0-windows\EquipmentRental.exe
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\bin\Debug\net8.0-windows\EquipmentRental.deps.json
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\bin\Debug\net8.0-windows\EquipmentRental.runtimeconfig.json
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\bin\Debug\net8.0-windows\EquipmentRental.dll
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\bin\Debug\net8.0-windows\EquipmentRental.pdb
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.RentalForm.resources
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.sourcelink.json
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.dll
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\refint\EquipmentRental.dll
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.pdb
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\EquipmentRental.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_1_C_sharp\115_11_19\校園器材借用費試算\EquipmentRental\obj\Debug\net8.0-windows\ref\EquipmentRental.dll
